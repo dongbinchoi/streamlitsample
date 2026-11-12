@@ -7,7 +7,7 @@ from io import BytesIO
 # Page setup
 # --------------------------------------------------
 st.set_page_config(
-    page_title="Multilingual TTS",
+    page_title="DB's",
     page_icon="🔊",
     layout="centered"
 )
