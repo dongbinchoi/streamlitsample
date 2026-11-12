@@ -15,7 +15,7 @@ st.set_page_config(
 # --------------------------------------------------
 # Title
 # --------------------------------------------------
-st.title("🔊 Multilingual TTS")
+st.title("DB's :open_mouth:")
 
 st.write(
     "Generate speech using Streamlit, "
